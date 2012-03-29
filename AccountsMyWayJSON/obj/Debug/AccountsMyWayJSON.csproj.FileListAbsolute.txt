@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrator\Desktop\AccountsMyWayJSON\AccountsMyWayJSON\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AccountsMyWayJSON\AccountsMyWayJSON\obj\Debug\AccountsMyWayJSON.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\AccountsMyWayJSON\AccountsMyWayJSON\obj\Debug\AccountsMyWayJSON.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\AccountsMyWayJSON\AccountsMyWayJSON\obj\Debug\AccountsMyWayJSON.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\AccountsMyWayJSON\AccountsMyWayJSON\bin\Debug\AccountsMyWayJSON.exe
+C:\Documents and Settings\Administrator\Desktop\AccountsMyWayJSON\AccountsMyWayJSON\bin\Debug\AccountsMyWayJSON.pdb
+C:\Documents and Settings\Administrator\Desktop\AccountsMyWayJSON\AccountsMyWayJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Documents and Settings\Administrator\Desktop\AccountsMyWayJSON\AccountsMyWayJSON\bin\Debug\Newtonsoft.Json.pdb
+C:\Documents and Settings\Administrator\Desktop\AccountsMyWayJSON\AccountsMyWayJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Documents and Settings\Administrator\Desktop\AccountsMyWayJSON\AccountsMyWayJSON\obj\Debug\AccountsMyWayJSON.exe
+C:\Documents and Settings\Administrator\Desktop\AccountsMyWayJSON\AccountsMyWayJSON\obj\Debug\AccountsMyWayJSON.pdb
